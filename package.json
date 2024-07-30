@@ -1,0 +1,14 @@
+{
+  "name": "your-project-name",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "fetch": "node fetcher.js"
+  },
+  "dependencies": {
+    "sync-request": "^6.1.0"
+  }
+}

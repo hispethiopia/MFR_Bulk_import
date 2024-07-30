@@ -1,0 +1,8 @@
+
+export const LOCATION_ATTRIBUTE_ID = "Jc6iMhyGt6x"
+export const LAST_UPDATED_ATTRIBUTE_ID = "JhrOESQAVor"
+export const OPERATIONAL_STATUS_ATTRIBUTE_ID = "qFaJ0L62MJq"
+export const SETTLEMENT_ATTRIBUTE_ID = "PPqNjqpFoRn"
+export const FACILITY_TYPE_ATTRIBUTE_ID = "jfNsdZwddzD"
+export const OWNERSHIP_ATTRIBUTE_ID = "rN5rM32rGn2"
+export const IS_PHCU_ATTRIBUTE_ID = "YLW32aoKTPy";
